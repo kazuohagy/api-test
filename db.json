@@ -88,50 +88,5 @@
                 "valTotalPremio": 30.5225
             }
         }
-    ],
-    "voucher2": [
-        {
-            "dadosViagem": {
-                "valTaxaCambio": 4.86,
-                "valCustoUs": 6.38,
-                "origemViagem": "BRASIL",
-                "destinoViagem": "Europa",
-                "motivoViagem": 0,
-                "datIniViagem": "2023-10-02T00:23:47Z",
-                "datFimViagem": "2023-10-08T00:23:47Z",
-                "tipoGrupoFamiliar": "0",
-                "cnpjRepresentante": "17846647000131"
-            },
-            "idRegistro": 2,
-            "identificadorContrato": "82PUKGJ9B3RFY0900000000000000000000000000000000000",
-            "identificacaoSeguro": "E2-42/171464900-5240000000000000000000000000000000",
-            "dadosVenda": {
-                "dataVenda": "2023-09-19T00:23:47Z",
-                "dataInicioVigencia": "2023-10-02T00:23:47Z",
-                "dataFimVigencia": "2023-10-08T00:23:47Z"
-            },
-            "cliente": {
-                "cpf": "05484853486",
-                "nomeSegurado": "THIAGO AUGUSTO DE SOUZA BONIFACIO",
-                "tipoPessoa": "F",
-                "datNascimento": "1999-03-23",
-                "numTelefoneContato": "(21)2531-1115",
-                "numCelular": "(21)2531-1115",
-                "numCepLocalRisco": "09726430",
-                "descEndLocalRisco": "RUA FLAVIO FONGARO 386, 0",
-                "numeroEndereco": "170",
-                "descComplLocalRisco": "",
-                "nomBairroLocalRisco": "JARDIM DO MAR",
-                "nomCidadeLocalRisco": "SAO BERNARDO DO CAMPO",
-                "uf": "SP",
-                "email": "sinistro@affinityseguro.com.br",
-                "sexo": "M",
-                "estadoCivil": 1
-            },
-            "plano": {
-                "siglaPlano": "524s",
-                "valTotalPremio": 5.1491
-            }
-        }
     ]
 }
